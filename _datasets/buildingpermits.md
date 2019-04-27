@@ -10,7 +10,6 @@ resources:
 license:
 category:
   - Building Permits
-  - Health / Human Services
 maintainer: NYC Department of Buildings
 
 ---
