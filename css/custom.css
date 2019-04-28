@@ -1,0 +1,44 @@
+.navbar-default {
+    background-color: #f29e29
+}
+body {
+  background-color: #e2edff
+}
+
+img {
+  background-color:  #e2edff;
+}
+
+.jumbotron {
+  background-color: #e2edff
+}
+a.thumbnail{
+  background-color:  #e2edff;
+  font-family: "Helvetica"
+}
+a{
+  color: #ea9b12;
+  font-family: "verdana"
+}
+
+h1{
+  color: black;
+  font-size: large;
+  font-weight: bold;
+  font-family: "Georgia"
+}
+
+h3{
+  color: black;
+  font-family: "Helvetica"
+}
+
+p, dataset{
+  color: #426db2;
+  font-family: "verdana"
+  font-size: 10px
+}
+
+.thumbnail:hover {
+    background-color: red
+}
