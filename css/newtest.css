@@ -1,28 +1,33 @@
-a
-h1
-p
-a.btn
-h3
-.thumbnail
-nav
-dataset
+h1 {
+	color: white
+	background-color: #3f4ac1
+	font: Georgia
+	font-size: large
+}
+
+h3 {
+	color: white
+	background-color: #3f4ac1
+	font: Georgia
+	font-size: medium
+}
+
+nav.navbar {
+	background-color: orange
+}
+
+body {
+	background-color: #3f4ac1;
+	margin:0;
+}
 
 a {
-	font: Georgia;
-	font-size: medium;
-	color: white
-	background-color: purple;
-	margin:0;
+	color: white;
+	background-color: #3f4ac1
 }
-
-h1 {
-	font: Arial;
-	font-size: large;
-	color: white
-	background-color: purple;
-	margin:0;
+a:visited {
+	color: royalblue;
 }
-
 a:hover,
 a:focus,
 a:active {
