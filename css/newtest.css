@@ -1,0 +1,22 @@
+body {
+	font: Helvetica;
+	font-size: medium;
+	background-color: #3f4ac1;
+	margin:0;
+}
+
+a {
+	color: royalblue;
+}
+a:visited {
+	color: purple;
+}
+a:hover,
+a:focus,
+a:active {
+	color: midnightblue;
+}
+
+.thumbnail:hover {
+    background-color: red
+}
