@@ -1,16 +1,28 @@
-body {
-	font: Helvetica;
+a
+h1
+p
+a.btn
+h3
+.thumbnail
+nav
+dataset
+
+a {
+	font: Georgia;
 	font-size: medium;
-	background-color: #3f4ac1;
+	color: white
+	background-color: purple;
 	margin:0;
 }
 
-a {
-	color: royalblue;
+h1 {
+	font: Arial;
+	font-size: large;
+	color: white
+	background-color: purple;
+	margin:0;
 }
-a:visited {
-	color: purple;
-}
+
 a:hover,
 a:focus,
 a:active {
