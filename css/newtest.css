@@ -12,6 +12,11 @@ h3 {
 	font-size: medium
 }
 
+a {
+	color: white;
+	background-color: #3f4ac1
+}
+
 nav.navbar {
 	background-color: orange
 }
@@ -21,10 +26,7 @@ body {
 	margin:0;
 }
 
-a {
-	color: white;
-	background-color: #3f4ac1
-}
+
 a:visited {
 	color: royalblue;
 }
